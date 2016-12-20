@@ -1,7 +1,8 @@
 #Scout Progress Tracker
 ###Plan:
-   *Create a tracking app, online and or mobile, for tracking the progress of a cub or boy scout; specifically for BSA.*
-  <h3>Ideas:</h3>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Create a tracking app, online and or mobile, for tracking the progress of a cub or boy scout; specifically for BSA.*
+
+###Ideas:
   - Make as easy as possible to use.
   - User will be able to:
     - create login
@@ -11,3 +12,9 @@
     - view list of competed badges, requirements.
     - view complete list of badges and awards
       - select badges from clomplete list and see what requirements are still needed to complete
+
+###Build out:
+#####&nbsp;&nbsp;&nbsp;&nbsp;Pages:
+1. Home
+2. Sign up
+3. 
