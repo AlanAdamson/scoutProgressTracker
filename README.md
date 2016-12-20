@@ -1,8 +1,7 @@
 #Scout Progress Tracker
 ###Plan:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Create a tracking app, online and or mobile, for tracking the progress of a cub or boy scout; specifically for BSA.*
-  
-  #### Ideas:
+  <h3>Ideas:</h3>
   - Make as easy as possible to use.
   - User will be able to:
     1. create login
