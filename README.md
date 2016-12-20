@@ -16,5 +16,5 @@
 ###Build out:
 #####&nbsp;&nbsp;&nbsp;&nbsp;Pages:
 1. Home
-2. Sign up
-3. 
+2. Sign up/ Log in
+3. Contact
